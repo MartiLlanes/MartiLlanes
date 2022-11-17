@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Marti Llanes</h1>
 <h3 align="center">A Junior Data Scientist and an Electronics and Automation Engineer</h3>
 
-- 🔭 I’m currently working on [DeepLifting](https://github.com/MartiLlanes/DeepLifting)
-
-- 👯 I’m also working on a colab project called [Rex-AI](https://github.com/quantium-rock/rex-ai)
+- 🔭 I’m currently working on [Chimera](https://github.com/MartiLlanes/chimera), an explenatory repository on how to create a Time Series simulation model
+      and [Microtein](https://github.com/MartiLlanes/Microtein) (currently private), a Nutritive recipy creator that takes into account your objectives to suit the best       recipies for your Meal Prep, getting all Micro and Macro nutrients
+- 👯 I’m also working on a colab project called [Rex-AI](https://github.com/quantium-rock/rex-ai), an Automated Trading System
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/martillanes/](https://www.linkedin.com/in/martillanes/)
 
